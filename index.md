@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages index
+## Welcome to jubapa blog 
 
 This is the personal blog of Juan, [the repo](https://github.com/jubapa/blog) of this blog can be found at [https://github.com/jubapa/blog](https://github.com/jubapa/blog)
 
