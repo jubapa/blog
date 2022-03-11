@@ -36,6 +36,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 
 ### List
-- [page 01](https://jubapa.github.io/blog/page01)
+- [2022-03-11 First steps](https://jubapa.github.io/blog/2022-03-11)
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
