@@ -1,3 +1,8 @@
+---
+layout: post
+author: jill
+---
+
 ## 2022-03-11 First steps 
 
 This post is the first post of many :)
