@@ -1,1 +1,13 @@
+title: Juan's blog
+author:
+  email: jubapa@gmail.com
+  github: jubapa
+
+description: > # this means to ignore newlines until "baseurl:"
+  This is Juan's blog, things that I don't want to lose or
+  I think it might be interesting for others.
+
+paginate: 10
+paginate_path: "/page:num/"
+
 theme: jekyll-theme-cayman
