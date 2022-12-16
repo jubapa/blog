@@ -1,0 +1,11 @@
+---
+title: Writing First Post
+author: jubapa
+date: 2022-12-16 17:10:00 +0800
+categories: [Blogging, Tutorial]
+tags: [writing]
+render_with_liquid: false
+---
+
+This is the first post to test that everyting works.
+
