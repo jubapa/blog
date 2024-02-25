@@ -25,16 +25,6 @@ First test, for checking the images.
 | 2024-02-22 |   37.07 |     0.917184 |
 | 2024-02-23 |   37.16 |     0.242196 |
 
-## 1
-
-![ACS](/assets/img/stocks/ACS.png "ACS.png")
-
 ![ACS](/assets/img/stocks/ACS.png){: w="700" h="400" }
-
-## 2
-
-![ACS.png](/assets/img/stocks/ACS.png "ACS.png")
 _ACS_
 
-## 3 
-![ACS.png](/assets/img/stocks/ACS.png "ACS.png"){: .normal }
