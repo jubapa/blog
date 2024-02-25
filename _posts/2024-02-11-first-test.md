@@ -25,5 +25,5 @@ First test, for checking the images.
 | 2024-02-22 |   37.07 |     0.917184 |
 | 2024-02-23 |   37.16 |     0.242196 |
 
-![ACS](/assets/img/stocks/ACS.png){: width="972" height="589" }
+![ACS](/assets/img/stocks/ACS.png)
 
