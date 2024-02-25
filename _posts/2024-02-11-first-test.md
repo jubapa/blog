@@ -27,7 +27,9 @@ First test, for checking the images.
 
 ## 1
 
-<a class="popup img-link" href="/assets/img/stocks/ACS.png"> <img src="/assets/img/stocks/ACS.png"> </a>
+![ACS](/assets/img/stocks/ACS.png "ACS.png")
+
+![ACS](/assets/img/stocks/ACS.png){: w="700" h="400" }
 
 ## 2
 
