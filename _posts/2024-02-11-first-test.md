@@ -25,4 +25,16 @@ First test, for checking the images.
 | 2024-02-22 |   37.07 |     0.917184 |
 | 2024-02-23 |   37.16 |     0.242196 |
 
-<a class="popup img-link " hef="/assets/img/stocks/ACS.png"> <img src="/assets/img/stocks/ACS.png"> </a>
+## 1
+<a class="popup img-link" href="/assets/img/stocks/ACS.png"> <img src="/assets/img/stocks/ACS.png"> </a>
+
+## 2
+![ACS.png](/assets/img/stocks/ACS.png "ACS.png")
+
+## 3 
+
+---
+image:
+  path: /assets/img/stocks/ACS.png
+  alt: ACS.png
+---
