@@ -4,7 +4,6 @@ author: jubapa
 date: 2024-02-11 17:10:00 +0800
 categories: [Blogging, First]
 tags: [finance]
-img_path: /assets/img/stocks/
 ---
 
 ## 2024-02-25
@@ -26,5 +25,4 @@ First test, for checking the images.
 | 2024-02-22 |   37.07 |     0.917184 |
 | 2024-02-23 |   37.16 |     0.242196 |
 
-![ACS](ACS.png)
-_ACS Stock_
+<a class="popup img-link " hef="/assets/img/stocks/ACS.png"> <img src="/assets/img/stocks/ACS.png"> </a>
