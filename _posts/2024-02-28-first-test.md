@@ -1,8 +1,8 @@
 ---
-title: First Approach
+title: Mercado Continue 
 author: jubapa
 date: 2024-02-28 17:10:00 +0800
-categories: [Blogging, First]
+categories: [Blogging, MC]
 tags: [finance]
 ---
 
