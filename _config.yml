@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   juan Blog, his interest topic are it, finance and so on
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://jubapa.github.io/blog/'
 
 github:
   username: jubapa             # change to your github username
