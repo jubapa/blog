@@ -28,7 +28,7 @@ Checking ['ANA.MC', 'ANE.MC', 'ACX.MC', 'ACS.MC', 'ADZ.MC', 'AEDAS.MC', 'AENA.MC
 | 2024-02-26 |   11.45 |    0.349345  |
 | 2024-02-27 |   11.42 |   -0.262695  |
 
-![APPS.MC](/assets/img/stocks/APPS.png){: w="700" h="400" .w-75 .normal}
+![APPS.MC](./assets/img/stocks/APPS.png){: w="700" h="400" .w-75 .normal}
 _APPS.MC_
 
 ### STOCK A3M.MC
@@ -47,7 +47,7 @@ _APPS.MC_
 | 2024-02-26 |   3.664 |    0.0545877 |
 | 2024-02-27 |   3.688 |    0.650757  |
 
-![A3M.MC](/assets/img/stocks/A3M.png){: w="700" h="400" .w-75 .normal}
+![A3M.MC](./assets/img/stocks/A3M.png){: w="700" h="400" .w-75 .normal}
 _A3M.MC_
 
 ### STOCK ADX.MC
@@ -66,7 +66,7 @@ _A3M.MC_
 | 2024-02-26 |   1.276 |     0.313485 |
 | 2024-02-27 |   1.29  |     1.08527  |
 
-![ADX.MC](/assets/img/stocks/ADX.png){: w="700" h="400" .w-75 .normal}
+![ADX.MC](./assets/img/stocks/ADX.png){: w="700" h="400" .w-75 .normal}
 _ADX.MC_
 
 ### STOCK BAIN.MC
@@ -85,7 +85,7 @@ _ADX.MC_
 | 2024-02-26 |     2.7 |            0 |
 | 2024-02-27 |     2.7 |            0 |
 
-![BAIN.MC](/assets/img/stocks/BAIN.png){: w="700" h="400" .w-75 .normal}
+![BAIN.MC](./assets/img/stocks/BAIN.png){: w="700" h="400" .w-75 .normal}
 _BAIN.MC_
 
 ### STOCK CLNX.MC
@@ -104,7 +104,7 @@ _BAIN.MC_
 | 2024-02-26 |   34.31 |    0.466336  |
 | 2024-02-27 |   34.38 |    0.203606  |
 
-![CLNX.MC](/assets/img/stocks/CLNX.png){: w="700" h="400" .w-75 .normal}
+![CLNX.MC](./assets/img/stocks/CLNX.png){: w="700" h="400" .w-75 .normal}
 _CLNX.MC_
 
 ### STOCK CEV.MC
@@ -123,7 +123,7 @@ _CLNX.MC_
 | 2024-02-26 |       7 |            0 |
 | 2024-02-27 |       7 |            0 |
 
-![CEV.MC](/assets/img/stocks/CEV.png){: w="700" h="400" .w-75 .normal}
+![CEV.MC](./assets/img/stocks/CEV.png){: w="700" h="400" .w-75 .normal}
 _CEV.MC_
 
 ### STOCK CLEO.MC
@@ -142,7 +142,7 @@ _CEV.MC_
 | 2024-02-26 |    1.15 |            0 |
 | 2024-02-27 |    1.15 |            0 |
 
-![CLEO.MC](/assets/img/stocks/CLEO.png){: w="700" h="400" .w-75 .normal}
+![CLEO.MC](./assets/img/stocks/CLEO.png){: w="700" h="400" .w-75 .normal}
 _CLEO.MC_
 
 ### STOCK CAM.MC
@@ -161,7 +161,7 @@ _CLEO.MC_
 | 2024-02-26 |    1.34 |            0 |
 | 2024-02-27 |    1.34 |            0 |
 
-![CAM.MC](/assets/img/stocks/CAM.png){: w="700" h="400" .w-75 .normal}
+![CAM.MC](./assets/img/stocks/CAM.png){: w="700" h="400" .w-75 .normal}
 _CAM.MC_
 
 ### STOCK DESA.MC
@@ -180,7 +180,7 @@ _CAM.MC_
 | 2024-02-26 |      15 |            0 |
 | 2024-02-27 |      15 |            0 |
 
-![DESA.MC](/assets/img/stocks/DESA.png){: w="700" h="400" .w-75 .normal}
+![DESA.MC](./assets/img/stocks/DESA.png){: w="700" h="400" .w-75 .normal}
 _DESA.MC_
 
 ### STOCK FAE.MC
@@ -199,7 +199,7 @@ _DESA.MC_
 | 2024-02-26 |   3.035 |     0.658978 |
 | 2024-02-27 |   3.08  |     1.46103  |
 
-![FAE.MC](/assets/img/stocks/FAE.png){: w="700" h="400" .w-75 .normal}
+![FAE.MC](./assets/img/stocks/FAE.png){: w="700" h="400" .w-75 .normal}
 _FAE.MC_
 
 ### STOCK GCO.MC
@@ -218,7 +218,7 @@ _FAE.MC_
 | 2024-02-26 |   34    |     0.147057 |
 | 2024-02-27 |   33.5  |    -1.49254  |
 
-![GCO.MC](/assets/img/stocks/GCO.png){: w="700" h="400" .w-75 .normal}
+![GCO.MC](./assets/img/stocks/GCO.png){: w="700" h="400" .w-75 .normal}
 _GCO.MC_
 
 ### STOCK IDR.MC
@@ -237,7 +237,7 @@ _GCO.MC_
 | 2024-02-26 |   16.07 |     0.871185 |
 | 2024-02-27 |   16.03 |    -0.249526 |
 
-![IDR.MC](/assets/img/stocks/IDR.png){: w="700" h="400" .w-75 .normal}
+![IDR.MC](./assets/img/stocks/IDR.png){: w="700" h="400" .w-75 .normal}
 _IDR.MC_
 
 ### STOCK COL.MC
@@ -256,7 +256,7 @@ _IDR.MC_
 | 2024-02-26 |   5.12  |     0        |
 | 2024-02-27 |   5.19  |     1.34875  |
 
-![COL.MC](/assets/img/stocks/COL.png){: w="700" h="400" .w-75 .normal}
+![COL.MC](./assets/img/stocks/COL.png){: w="700" h="400" .w-75 .normal}
 _COL.MC_
 
 ### STOCK LIB.MC
@@ -275,7 +275,7 @@ _COL.MC_
 | 2024-02-26 |    1.01 |            0 |
 | 2024-02-27 |    1.01 |            0 |
 
-![LIB.MC](/assets/img/stocks/LIB.png){: w="700" h="400" .w-75 .normal}
+![LIB.MC](./assets/img/stocks/LIB.png){: w="700" h="400" .w-75 .normal}
 _LIB.MC_
 
 ### STOCK LDA.MC
@@ -294,7 +294,7 @@ _LIB.MC_
 | 2024-02-26 |   0.923 |     0.650052 |
 | 2024-02-27 |   0.914 |    -0.984683 |
 
-![LDA.MC](/assets/img/stocks/LDA.png){: w="700" h="400" .w-75 .normal}
+![LDA.MC](./assets/img/stocks/LDA.png){: w="700" h="400" .w-75 .normal}
 _LDA.MC_
 
 ### STOCK MAP.MC
@@ -313,7 +313,7 @@ _LDA.MC_
 | 2024-02-26 |   1.97  |    0.0507638 |
 | 2024-02-27 |   1.965 |   -0.254453  |
 
-![MAP.MC](/assets/img/stocks/MAP.png){: w="700" h="400" .w-75 .normal}
+![MAP.MC](./assets/img/stocks/MAP.png){: w="700" h="400" .w-75 .normal}
 _MAP.MC_
 
 ### STOCK MRL.MC
@@ -332,7 +332,7 @@ _MAP.MC_
 | 2024-02-26 |   9.19  |   -0.163225  |
 | 2024-02-27 |   9.13  |   -0.657168  |
 
-![MRL.MC](/assets/img/stocks/MRL.png){: w="700" h="400" .w-75 .normal}
+![MRL.MC](./assets/img/stocks/MRL.png){: w="700" h="400" .w-75 .normal}
 _MRL.MC_
 
 ### STOCK MTB.MC
@@ -351,7 +351,7 @@ _MRL.MC_
 | 2024-02-26 |    1.36 |      0       |
 | 2024-02-27 |    1.36 |      0       |
 
-![MTB.MC](/assets/img/stocks/MTB.png){: w="700" h="400" .w-75 .normal}
+![MTB.MC](./assets/img/stocks/MTB.png){: w="700" h="400" .w-75 .normal}
 _MTB.MC_
 
 ### STOCK OPDE.MC
@@ -370,7 +370,7 @@ _MTB.MC_
 | 2024-02-26 |    5.84 |     0.513702 |
 | 2024-02-27 |    5.82 |    -0.343642 |
 
-![OPDE.MC](/assets/img/stocks/OPDE.png){: w="700" h="400" .w-75 .normal}
+![OPDE.MC](./assets/img/stocks/OPDE.png){: w="700" h="400" .w-75 .normal}
 _OPDE.MC_
 
 ### STOCK ORY.MC
@@ -389,7 +389,7 @@ _OPDE.MC_
 | 2024-02-26 |   1.864 |    -0.321891 |
 | 2024-02-27 |   1.874 |     0.533617 |
 
-![ORY.MC](/assets/img/stocks/ORY.png){: w="700" h="400" .w-75 .normal}
+![ORY.MC](./assets/img/stocks/ORY.png){: w="700" h="400" .w-75 .normal}
 _ORY.MC_
 
 ### STOCK PRM.MC
@@ -408,7 +408,7 @@ _ORY.MC_
 | 2024-02-26 |   10.3  |     0.970877 |
 | 2024-02-27 |   10.25 |    -0.487807 |
 
-![PRM.MC](/assets/img/stocks/PRM.png){: w="700" h="400" .w-75 .normal}
+![PRM.MC](./assets/img/stocks/PRM.png){: w="700" h="400" .w-75 .normal}
 _PRM.MC_
 
 ### STOCK SCYR.MC
@@ -427,7 +427,7 @@ _PRM.MC_
 | 2024-02-26 |   3.056 |    0.0654481 |
 | 2024-02-27 |   3.084 |    0.907916  |
 
-![SCYR.MC](/assets/img/stocks/SCYR.png){: w="700" h="400" .w-75 .normal}
+![SCYR.MC](./assets/img/stocks/SCYR.png){: w="700" h="400" .w-75 .normal}
 _SCYR.MC_
 
 ### STOCK ISE.MC
@@ -446,6 +446,6 @@ _SCYR.MC_
 | 2024-02-26 |   0.574 |            0 |
 | 2024-02-27 |   0.574 |            0 |
 
-![ISE.MC](/assets/img/stocks/ISE.png){: w="700" h="400" .w-75 .normal}
+![ISE.MC](./assets/img/stocks/ISE.png){: w="700" h="400" .w-75 .normal}
 _ISE.MC_
 
