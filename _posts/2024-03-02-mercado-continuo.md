@@ -1,7 +1,7 @@
 ---
 title: Mercado Continuo
 author: jubapa
-date: 2024-03-02 17:10:00 +0800
+date: 2024-03-02 00:10:00 +0800
 categories: [Blogging, Finance, MC]
 tags: [finance]
 ---
