@@ -135,7 +135,7 @@ qwen3:32b             e1c9f234c6eb    20 GB     4 weeks ago
 #### vllm
 
 I tried to use the [llm-copressor](https://github.com/vllm-project/llm-compressor/) to quantize the model but with not succeed, probably because I am still learning about all this.
-There is a quite interesting article about it at [developers.redhat](https://developers.redhat.com/articles/2024/08/14/llm-compressor-here-faster-inference-vllm#enabling_activation_quantization_in_vllm)
+There is a quite interesting article about it at [developers.redhat](https://developers.redhat.com/articles/2024/08/14/llm-compressor-here-faster-inference-vllm)
 
 So I tried different approach, checking on the things that have done by others at [Quantization](https://huggingface.co/models?other=base_model:quantized:Qwen/Qwen3-32B) filter by [RedHat](https://huggingface.co/models?other=base_model:quantized:Qwen%2FQwen3-32B&sort=trending&search=RedHat).
 There are two models:
